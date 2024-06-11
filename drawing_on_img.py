@@ -9,7 +9,7 @@ cv.line(blank,(0,0),(blank.shape[1],0),(255,255,255),thickness=3)
 
 
 
-cv.putText(blank,'hello, i am not telling you my name',(0,blank.shape[1]//2),cv.FONT_HERSHEY_TRIPLEX,1.0,(255,255,0),thickness=2)
+cv.putText(blank,'hello, i  name lokesh',(0,blank.shape[1]//2),cv.FONT_HERSHEY_TRIPLEX,1.0,(255,255,0),thickness=2)
 
 
 cv.imshow('practice',blank)
